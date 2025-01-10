@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <title>Google Advanced Search</title>
+        <link rel = "stylesheet" href = "search-styling.css">
+        <meta name ="viewport" content ="width = device-width , initial-scale = 1.0">
+    </head>
+    <body>
+        <div>
+            <div>
+                <div id = "topdiv">
+                    <img src = "google.jpg" alt = "Google Logo">
+                </div>
+                <div class = "links">
+                    <a href = "index.html">Home</a>
+                </div>   
+            </div>
+            <div id = "bottomdiv">
+                Advanced Search
+            </div>
+            <form action ="https://www.google.com/search">
+                <div id ="advance_form">
+                    <div class ="labels" id="first">Find pages with...</div>
+                    <div></div>
+                    <div class="hints" id="second">To do this in the search box.</div>
+                    <div class ="labels">all of these words:</div>
+                    <div><input class = "inputs" type ="text" name ="as_q" autofocus ="autofocus"></div>
+                    <div class ="hints">Type the important words: tri-colour rat terrier</div>
+                    <div class ="labels">this exact word or phrase:</div>
+                    <div><input class = "inputs" type ="text" name ="as_epq"></div>
+                    <div class ="hints">Put exact words in quotes: "rat terrier"</div>
+                    <div class ="labels">any of these words:</div>
+                    <div><input class = "inputs" type ="text" name ="as_oq"></div>
+                    <div class ="hints">Type OR between all the words you want: miniature OR standard</div>
+                    <div class ="labels">none of these words:</div>
+                    <div><input class = "inputs" type ="text" name ="as_eq"></div>
+                    <div class ="hints">Put a minus sign just before words that you don't want: -rodent, -"Jack Russell"</div>
+                    <div class="labels"></div>
+                    <div><input id = "advancebtn" type ="submit" value ="Advanced Search"></div>
+                    <div class="hints"></div>    
+                </div> 
+            </form> 
+        </div>
+    </body>
+</html>
