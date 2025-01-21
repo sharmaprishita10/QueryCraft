@@ -8,7 +8,7 @@ This project involves creating a front-end for three types of searches similar t
 
 ## Getting Started
 
-Open the project folder and navigate to the `index.html` file to start the project.
+Navigate to the `index.html` file to start the project.
 
 ## Specification
 
