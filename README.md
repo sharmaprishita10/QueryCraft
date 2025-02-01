@@ -4,7 +4,7 @@ Search is a project designed to replicate the front-end functionalities of Googl
 
 ### Description
 
-This project involves creating a front-end for three types of searches similar to Google's services. Users can navigate between regular Google Search, Image Search, and Advanced Search pages. Each page offers functionalities that mirror Google's search capabilities, allowing for an immersive and intuitive search experience.
+This project is a front-end for three types of searches similar to Google's services. Users can navigate between regular Google Search, Image Search, and Advanced Search pages. Each page offers functionalities that mirror Google's search capabilities, allowing for an immersive and intuitive search experience.
 
 ### Getting Started
 
