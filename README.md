@@ -1,6 +1,6 @@
-# Search
+# QueryCraft
 
-Search is a project designed to replicate the front-end functionalities of Google Search, Google Image Search, and Google Advanced Search.
+QueryCraft is a project designed to replicate the front-end functionalities of Google Search, Google Image Search, and Google Advanced Search.
 
 ### Description
 
